@@ -1,0 +1,15 @@
+Test Case 1:
+Area lit: 7345
+Execution time: 0.006670713424682617 seconds
+
+Test Case 2:
+Area lit: 15871
+Execution time: 0.02193307876586914 seconds
+
+Test Case 3:
+Area lit: 17316
+Execution time: 0.025129318237304688 seconds
+
+Test Case 4:
+Area lit: 15337
+Execution time: 0.04467296600341797 seconds
